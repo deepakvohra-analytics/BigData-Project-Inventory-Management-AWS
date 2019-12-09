@@ -10,7 +10,7 @@ Use Case:
 Our team will give a use case of retail inventory management using AWS to compute sales, storage, and associated resources required to support those peaks which would impose a sizable cost burden on the business, and risk these resources being underused during non-peak periods or risk inventory shortages during peak periods.
 
 Objective 1: Sales forecasting on monthly basis for warehouse inventory management
-Objective 2: Real-time sales analysis for optimizing inventory on a daily-basis especially for very fast moving products or perishable products such as dairy items. 
+Objective 2: Sales analysis for optimizing inventory on a daily-basis especially for very fast moving products or perishable products such as dairy items. 
 
 Dataset:
 https://www.kaggle.com/c/grupo-bimbo-inventory-demand
