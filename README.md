@@ -1,6 +1,6 @@
 # msba6330-6320-trendz-mkt
 
-Smart Inventory Management Using Sales forecasting with Cloud Computing
+Smart Inventory Management Using Sales forecasting on AWS Ecosystem
 
 
 ## Motivation
