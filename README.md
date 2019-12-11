@@ -21,12 +21,13 @@ Objective 2: Sales analysis for optimizing inventory on a daily-basis especially
 https://www.kaggle.com/c/grupo-bimbo-inventory-demand
 
 ## Technologies
-AWS S3
-AWS Athena
-AWS SageMaker
-AWS Quicksight
+- AWS S3
+- AWS Athena
+- AWS SageMaker
+- AWS Quicksight
 
 <br>
-Awesome Team: Xuan Ji, Sidharth Manne, Minya Na, Xue Ni, Rishab Prashanth, Deepak Vohra
+Awesome Team:  
+Xuan Ji, Sidharth Manne, Minya Na, Xue Ni, Rishab Prashanth, Deepak Vohra
 
 
